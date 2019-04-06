@@ -36,3 +36,7 @@ paramList.Wtilde = 20; % use Wtilde = 20, # of observations in JITL model
 paramList.TSMax  = []; % empty because training set size is not fixed
 paramList.mp     = 3; % # of validation points used in JITL subroutine
 [ypred, err] = MWAdpJITL(Xtrain, ytrain, Xtest, ytest, flagM, paramList);
+
+%% 3. MWAdpJITL (lim)
+paramList.NNType = 'lim'; % MWAdpJITL (lim), contraint on training set size
+[ypred, err] = MWAdpJITL(Xtrain, ytrain, Xtest, ytest, flagM, paramList);

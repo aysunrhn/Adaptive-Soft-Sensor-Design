@@ -7,13 +7,13 @@ The proposed method, MW<sub>Adp</sub>-JITL is implemented in Matlab; both the co
 If you use the code or the simulated datasets, please cite our corresponding paper: [Integrating Adaptive Moving Window and Just-in-Time Learning Paradigms for Soft-Sensor Design] (https://doi.org/10.1016/j.neucom.2020.01.083)    
 ```bib
 @article{adpsensor20,    
-Author = "Aysun Urhan and Burak Alakent",
-Title = "Integrating Adaptive Moving Window and Just-in-Time Learning Paradigms for Soft-Sensor Design",
-Journal = "Neurocomputing",
-Year = "2020",
-issn = "0925-2312",
-doi = "https://doi.org/10.1016/j.neucom.2020.01.083",
-url = "http://www.sciencedirect.com/science/article/pii/S0925231220301417",
+  Author = "Aysun Urhan and Burak Alakent",
+  Title = "Integrating Adaptive Moving Window and Just-in-Time Learning Paradigms for Soft-Sensor Design",
+  Journal = "Neurocomputing",
+  Year = "2020",
+  issn = "0925-2312",
+  doi = "https://doi.org/10.1016/j.neucom.2020.01.083",
+  url = "http://www.sciencedirect.com/science/article/pii/S0925231220301417",
 }
 ```
 

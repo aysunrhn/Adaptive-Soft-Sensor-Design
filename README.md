@@ -1,7 +1,7 @@
 # Adaptive Soft Sensor Design: Integrating Adaptive Moving Window and Just-in-Time Learning Paradigms for Soft-Sensor Design #
 Github repo for the research paper titled _"Integrating Adaptive Moving Window and Just-in-Time Learning Paradigms for Soft-Sensor Design"_
 
-The proposed method, MW<sub>Adp</sub>-JITL is implemented in Matlab; both the code and the simulated datasets we used in our experiments are freely available under MIT license . You can find more details about the algoritm in the [manuscript published in Neurocomputing](https://doi.org/10.1016/j.neucom.2020.01.083).
+The proposed method, MW<sub>Adp</sub>-JITL is implemented in Matlab; both the code and the simulated datasets we used in our experiments are freely available under a GNU GPL 3 open source license from this repo. You can find more details about the algoritm in the [manuscript published in Neurocomputing](https://doi.org/10.1016/j.neucom.2020.01.083).
 
 # Citation #
 If you use the code or the simulated datasets, please cite our corresponding paper: [Integrating Adaptive Moving Window and Just-in-Time Learning Paradigms for Soft-Sensor Design] (https://doi.org/10.1016/j.neucom.2020.01.083)    
